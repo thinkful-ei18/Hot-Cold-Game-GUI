@@ -35,7 +35,7 @@ class Game extends React.Component {
                 return 'You are very warm'
             }
             else if(gap >= 5){
-                return 'You are hot'
+                return 'You are hot!'
             }
             else if (gap >= 1){
                 return 'You are very hot!';
@@ -44,7 +44,6 @@ class Game extends React.Component {
                 return 'You guessed right!';
             }
         }
-
       render(){
     return (
         <div>
