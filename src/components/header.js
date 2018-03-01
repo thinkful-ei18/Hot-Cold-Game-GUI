@@ -1,7 +1,6 @@
 import React from 'react';
-
 import TopNav from './top-nav';
-import InfoModal from './info-modal';
+// import InfoModal from './info-modal';
 
 import './header.css';
 
